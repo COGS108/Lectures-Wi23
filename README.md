@@ -1,5 +1,5 @@
 # Lectures-Wi23
-Lectures for the Winter 2023 COGS108 course taught by Alex Simpkins Ph.D.
+For the Winter 2023 COGS108 course taught by Alex Simpkins Ph.D. These will be materials used during lectures. Mostly slide PDFs & Jupyter notebooks. 
 
 Course materials are organized by week.
 
